@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941893961301",
+    "firebase_url": "https://airportinventorymanagement-v1.firebaseio.com",
+    "project_id": "airportinventorymanagement-v1",
+    "storage_bucket": "airportinventorymanagement-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941893961301:android:11bd1c27c25afeadf336dc",
+        "android_client_info": {
+          "package_name": "com.arjun.airportinventorymanagementalpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941893961301-ssj27c3d3bn49frrr2r53lmbovne7svn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arjun.airportinventorymanagementalpha",
+            "certificate_hash": "b5b0d077c29e361dae9eb2ee252dc92958ae46c4"
+          }
+        },
+        {
+          "client_id": "941893961301-bha1d2ag3366detdm72d05to8uacvl5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfl4fYdyDnufDZlzL66xBp3PhAKJmGLds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941893961301-bha1d2ag3366detdm72d05to8uacvl5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
